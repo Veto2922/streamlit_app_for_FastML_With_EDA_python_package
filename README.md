@@ -35,7 +35,6 @@ FastML With EDA Web App is a user-friendly web application built with Streamlit 
 
 8. **Model Comparison:** Compare model performance metrics and select the best model.
 
-9. **Result Visualization:** Visualize the results of your machine learning experiments.
 
 ## Installation
 
@@ -67,8 +66,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-[FastML_With_EDA GitHub Repository](https://github.com/Veto2922/streamlit_app_for_FastML_With_EDA_python_package)
+[FastML_With_EDA GitHub Repository](https://github.com/Veto2922/FastML_With_EDA_python_package)
 [FastML_With_EDA PyPI Package](https://pypi.org/project/FastML-With-EDA/)
 ```
-
-Replace the placeholders with your actual GitHub repository URL and PyPI package link, and make any necessary customizations to the description based on your project's specifics. This description will help users understand the purpose of your web app and how to use it effectively.
