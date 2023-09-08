@@ -66,6 +66,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-[FastML_With_EDA GitHub Repository](https://github.com/Veto2922/FastML_With_EDA_python_package)
+[FastML_With_EDA package GitHub Repository](https://github.com/Veto2922/Fast-Machine-Learning-With-EDA-python-package)
+
 [FastML_With_EDA PyPI Package](https://pypi.org/project/FastML-With-EDA/)
 ```
