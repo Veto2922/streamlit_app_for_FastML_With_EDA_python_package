@@ -69,7 +69,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 [FastML_With_EDA package GitHub Repository](https://github.com/Veto2922/Fast-Machine-Learning-With-EDA-python-package)
 
 [FastML_With_EDA PyPI Package](https://pypi.org/project/FastML-With-EDA/)
-```
 
 
 ## List of Updates in AppV2
@@ -96,5 +95,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 5. **User Interface:**
    - The new code features an enhanced user interface with improved organization and descriptions for each section and option.
-
-
