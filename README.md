@@ -71,10 +71,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 [FastML_With_EDA PyPI Package](https://pypi.org/project/FastML-With-EDA/)
 ```
 
-Certainly! Here's the list of updates for your GitHub README:
-
----
-
 
 ## List of Updates in AppV2
 
