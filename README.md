@@ -70,3 +70,35 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 [FastML_With_EDA PyPI Package](https://pypi.org/project/FastML-With-EDA/)
 ```
+
+Certainly! Here's the list of updates for your GitHub README:
+
+---
+
+
+## List of Updates in AppV2
+
+1. **Automated Preprocessing**
+   - The new code automates preprocessing tasks, including the detection of column types, null values, and more.
+
+2. **EDA and Preprocessing:**
+   - The code now includes a checkbox for handling missing values using different strategies such as "mean," "median," "mode," or "remove."
+   - It displays the percentage of missing values before and after handling.
+   - An option to drop selected columns from the dataset is now available.
+
+3. **Detect and Remove Outliers:**
+   - It calculates and displays the percentage of outliers in each numerical column.
+   - An option to perform a second layer of removing outliers has been added.
+
+4. **Machine Learning:**
+   - The new code offers two modes for machine learning: "By FastML" and "By pycaret."
+   - In the "By FastML" mode, it automatically chooses between regression or classification tasks based on the number of unique values in the target variable.
+   - Users can select from various models and customize hyperparameters.
+   - Model performance metrics are compared, and the best model can be selected.
+
+   - In the "By pycaret" mode, the code utilizes the `pycaret` library for automated machine learning and displays classification or regression metrics and plots.
+
+5. **User Interface:**
+   - The new code features an enhanced user interface with improved organization and descriptions for each section and option.
+
+
