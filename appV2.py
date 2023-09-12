@@ -1,3 +1,44 @@
+
+# These comments are for the code reader from Electropi
+
+# Note:
+# 1-FastML_With_EDA is not pandas profiling it's my own package, I made it for this project and published it in Pypi, You Can  check this and how to install it by those links:
+# 1)https://pypi.org/project/FastML-With-EDA/
+# 2)https://github.com/Veto2922/Fast-Machine-Learning-With-EDA-python-package
+# 2) Please follow the requirements.txt file, readme in GitHub, and the messages in-app to avoid any errors
+
+# This is a list of updates in the new code:
+
+# 1- Automate preprocessing, detect column types , null values, and more
+
+# 2. EDA and Preprocessing:
+#    - The new code includes a checkbox for handling missing values using different strategies such as "mean," "median," "mode," or "remove."
+#    - The percentage of missing values before and after handling is displayed.
+#    - The option to drop selected columns from the dataset is included.
+
+# 3. Detect and Remove Outliers:
+#    - It calculates and displays the percentage of outliers in each numerical column.
+#    - The option to perform a second layer of removing outliers is available.
+
+# 4. Machine Learning:
+#    - The new code offers two modes for machine learning: "By FastML" and "By pycaret."
+#    - In the "By FastML" mode, we choose regression or classification tasks automatic based on the number of unique values in the target variable.
+#    - You can choose from various models and customize hyperparameters.
+#    -Compare model performance metrics and select the best model.
+
+#    - In the "By pycaret" mode, the code uses the `pycaret` library for automated machine learning  and displays classification or regression metrics and plots.
+
+# 5. User Interface:
+#    - The new code features an enhanced user interface with better organization and descriptions for each section and option.
+
+# good luck:)
+
+
+
+
+
+
+
 import streamlit as st
 import pandas as pd
 from FastML_With_EDA import EDA_and_preprocessing as EP
