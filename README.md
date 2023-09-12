@@ -56,21 +56,6 @@ To run the FastML With EDA Web App, follow these steps:
 
 4. Upload your dataset and start exploring and building machine learning models.
 
-## Contributing
-
-Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-[FastML_With_EDA package GitHub Repository](https://github.com/Veto2922/Fast-Machine-Learning-With-EDA-python-package)
-
-[FastML_With_EDA PyPI Package](https://pypi.org/project/FastML-With-EDA/)
-
-
 ## List of Updates in AppV2
 
 1. **Automated Preprocessing**
@@ -95,3 +80,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 5. **User Interface:**
    - The new code features an enhanced user interface with improved organization and descriptions for each section and option.
+
+## Contributing
+
+Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+[FastML_With_EDA package GitHub Repository](https://github.com/Veto2922/Fast-Machine-Learning-With-EDA-python-package)
+
+[FastML_With_EDA PyPI Package](https://pypi.org/project/FastML-With-EDA/)
+
+
+
