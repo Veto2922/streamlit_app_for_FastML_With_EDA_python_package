@@ -5,6 +5,9 @@
 
 FastML With EDA Web App is a user-friendly web application built with Streamlit that complements the FastML_With_EDA Python package. It empowers users to perform exploratory data analysis (EDA), data preprocessing, and machine learning model training effortlessly. Whether you are a data scientist, analyst, or machine learning enthusiast, this web app simplifies your data-driven tasks.
 
+![FastMl web app](https://github.com/Veto2922/streamlit_app_for_FastML_With_EDA_python_package/assets/114834171/411c3849-af85-4dbe-82bb-dd6062224f0e)
+
+
 ## Features
 
 - **Data Loading:** Easily upload and load datasets in various formats, including CSV, Excel, XLSX, XLS, and SQL databases.
